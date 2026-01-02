@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Morphe Home Screen -->
-    <string name="morphe_home_bundles">Lot de correctifs</string>
+    <string name="morphe_home_bundles">Patch bundle</string>
     <string name="morphe_home_greeting_1">Quelle application voulez-vous patcher ?</string>
     <!-- Humorous hype message with light nostalgia -->
     <string name="morphe_home_greeting_2">Prêt à rendre YouTube légendaire à nouveau ?</string>
     <!-- "Buckle up" referring to fasten your vehicle seat belt. A light-hearted joke to build excitement. -->
     <string name="morphe_home_greeting_3">Attachez vos ceintures, c\'est l\'heure du patchage</string>
     <!-- Sarcastic joke about blocking ads, intentionally over-the-top -->
-    <string name="morphe_home_greeting_4">Un autre jour, un autre chef-d\'œuvre avec blocage de publicités</string>
+    <string name="morphe_home_greeting_4">Un autre jour, un autre chef-d\'œuvre grâce au blocage de publicités</string>
     <!-- "Watch ads" refers to watching video ads in unpatched apps -->
-    <string name="morphe_home_greeting_5">Vous voulez regarder des publicités ? Moi non plus</string>
+    <string name="morphe_home_greeting_5">Vous voulez regarder des publicités ? Moi non</string>
     <!-- Friendly, slightly mischievous joke about controlling app behavior -->
-    <string name="morphe_home_greeting_6">Rendons vos applications plus disciplinées</string>
+    <string name="morphe_home_greeting_6">Faisons fonctionner vos applications.</string>
     <!-- Whimsical forecast-style joke, not meant literally -->
-    <string name="morphe_home_greeting_7">Prévisions du jour : 100% de chance de mise à jour</string>
+    <string name="morphe_home_greeting_7">Prévisions du jour : 100% de chance de patchs</string>
     <!-- From mediocrity to amazing -->
     <string name="morphe_home_greeting_8">Prêt à transformer le médiocre en extraordinaire ?</string>
     <!-- Playful exaggeration, making patching feel heroic -->
-    <string name="morphe_home_greeting_9">Sauvons les applications de leurs propres dérives depuis aujourd\'hui</string>
+    <string name="morphe_home_greeting_9">Sauvons les applications elles-mêmes à compter d\'aujourd\'hui</string>
     <!-- Light sarcasm, casual and tech-savvy humor -->
-    <string name="morphe_home_greeting_10">Alimenté par la caféine et de bonnes mises à jour</string>
-    <string name="morphe_home_bundle_type_api">Lot d\'API</string>
+    <string name="morphe_home_greeting_10">Alimenté par la caféine et les bons patchs</string>
+    <string name="morphe_home_bundle_type_api">API Bundle</string>
     <string name="morphe_home_update_error">Mise à jour échouée</string>
     <string name="morphe_home_update_error_subtitle">Vérifiez votre connexion Internet et réessayez</string>
-    <string name="morphe_home_updating_patches">Mise à jour des correctifs…</string>
+    <string name="morphe_home_updating_patches">Mise à jour des patchs…</string>
     <string name="morphe_home_update_success">Mise à jour terminée</string>
-    <string name="morphe_home_patches_updated">Vos correctifs sont à jour</string>
-    <string name="morphe_home_patches_are_loading">Chargement des correctifs, veuillez patienter…</string>
+    <string name="morphe_home_patches_updated">Vos patchs sont à jour</string>
+    <string name="morphe_home_patches_are_loading">Chargement des patchs, veuillez patienter…</string>
     <string name="morphe_home_please_wait">Veuillez patienter…</string>
     <string name="morphe_home_open_in_browser">Ouvrir dans le navigateur</string>
-    <string name="morphe_home_failed_to_open_url">Impossible d\'ouvrir l\'URL</string>
+    <string name="morphe_home_failed_to_open_url">Échec de l\'ouverture de l\'URL</string>
     <string name="morphe_home_date_added">Ajouté</string>
     <string name="morphe_home_date_updated">Mis à jour</string>
     <string name="morphe_home_check_updates">Vérifier</string>
@@ -38,7 +38,7 @@
     <string name="morphe_home_timeline">Historique des mises à jour</string>
     <!-- Dialog 1: APK Availability -->
     <string name="morphe_home_apk_availability_dialog_title">Avez-vous l\'APK original non patché ?</string>
-    <string name="morphe_home_apk_availability_dialog_description_simple">Pour mettre à jour %1$s, vous avez besoin de la version %2$s (non mise à jour)</string>
+    <string name="morphe_home_apk_availability_dialog_description_simple">Pour mettre à jour %1$s, vous avez besoin de la version %2$s (non patché)</string>
     <string name="morphe_home_apk_availability_yes">Oui, je l\'ai</string>
     <string name="morphe_home_apk_availability_no">Non, aidez-moi à le trouver</string>
     <!-- Dialog 2: Download Instructions -->
@@ -46,11 +46,11 @@
     <string name="morphe_home_download_instructions_steps_title">Instructions :</string>
     <string name="morphe_home_download_instructions_step1">Appuyez sur le bouton \'%1$s\' ci-dessous</string>
     <string name="morphe_home_download_instructions_step2_part1">Faites défiler la page Web et appuyez sur</string>
-    <string name="morphe_home_download_instructions_download_button_toast">Appuyez sur télécharger sur le site Web, et pas ici 😊</string>
-    <string name="morphe_home_download_instructions_step3">Attendez que le téléchargement soit terminé, et &lt;b&gt;ne pas installer&lt;/b&gt; l\'APK</string>
-    <string name="morphe_home_download_instructions_step3_mount">Attendez que le téléchargement soit terminé, puis &lt;b&gt;installez l\'APK&lt;/b&gt;</string>
-    <string name="morphe_home_download_instructions_step4">Après la fin du téléchargement, rouvrez cette application</string>
-    <string name="morphe_home_download_instructions_step4_mount">Après avoir installé l\'APK d\'origine, rouvrez cette application</string>
+    <string name="morphe_home_download_instructions_download_button_toast">Appuyez sur télécharger sur le site Web, et non ici 😊</string>
+    <string name="morphe_home_download_instructions_step3">Attendez que le téléchargement ce terminé, et &lt;b&gt; n\'installez pas&lt;/b&gt; l\'APK</string>
+    <string name="morphe_home_download_instructions_step3_mount">Attendez que le téléchargement ce terminé, puis &lt;b&gt;installez l\'APK&lt;/b&gt;</string>
+    <string name="morphe_home_download_instructions_step4">Une fois le téléchargement terminé, ouvrez à nouveau cette application.</string>
+    <string name="morphe_home_download_instructions_step4_mount">Après avoir installé l\'APK d\'origine, ouvrez à nouveau cette application.</string>
     <string name="morphe_home_download_instructions_continue">Continuer vers APKMirror.com</string>
     <!-- Dialog 3: File Picker Prompt -->
     <string name="morphe_home_file_picker_prompt_title">Sélectionnez l\'APK que vous avez téléchargée</string>
@@ -59,32 +59,32 @@
     <string name="morphe_home_recommended_version">Version recommandée</string>
     <string name="morphe_patcher_selected_version">Version sélectionnée</string>
     <!-- Root Mode -->
-    <string name="morphe_root_install_apk_required">Le mode root nécessite que l\'APK original soit installé sur votre appareil avant le patching.</string>
-    <string name="morphe_root_gmscore_excluded">La prise en charge de GmsCore est exclue en mode root</string>
+    <string name="morphe_root_install_apk_required">Le mode Root nécessite que l\'APK d\'origine soit installé sur votre appareil avant l\'application des patchs.</string>
+    <string name="morphe_root_gmscore_excluded">Le patch de support GmsCore est exclu en mode root.</string>
     <!-- Morphe Patcher Screen -->
     <string name="morphe_patcher_save_apk">Enregistrer l\'APK</string>
-    <string name="morphe_patcher_copy_error">Erreur de copie</string>
+    <string name="morphe_patcher_copy_error">Copier l\'erreur</string>
     <string name="morphe_patcher_show_error">Afficher l\'erreur</string>
     <string name="morphe_patcher_error_copied">Erreur copiée dans le presse-papiers</string>
     <string name="morphe_patcher_patches_progress">%1$d / %2$d patchs</string>
     <string name="morphe_patcher_long_step_warning">Cette étape peut prendre un certain temps. Veuillez patienter…</string>
-    <string name="morphe_patcher_installing">Installation en cours…</string>
-    <string name="morphe_patcher_installing_subtitle">Presque prêt à démarrer ! 🎸</string>
+    <string name="morphe_patcher_installing">Installation...</string>
+    <string name="morphe_patcher_installing_subtitle">Bientôt prêt à mettre le feu  ! 🎸</string>
     <string name="morphe_patcher_success_title">Tout est prêt ! 🎉</string>
     <string name="morphe_patcher_success_subtitle">Votre application est patchée et installée !</string>
     <string name="morphe_patcher_complete_title">Patchage terminé ! ✨</string>
     <string name="morphe_patcher_failed_title">Oups ! Quelque chose s\'est mal passé</string>
     <string name="morphe_patcher_failed_subtitle">Vérifiez les détails de l\'erreur ci-dessous</string>
-    <string name="morphe_patcher_failed_dialog_title">Échec de la correction</string>
+    <string name="morphe_patcher_failed_dialog_title">Échec de l\'application des patchs</string>
     <string name="morphe_patcher_unknown_error">Une erreur inconnue s\'est produite</string>
     <string name="morphe_patcher_mounting">Montage…</string>
-    <string name="morphe_patcher_conflict_title">Conflit de paquet</string>
+    <string name="morphe_patcher_conflict_title">Package en conflit</string>
     <string name="morphe_patcher_conflict_subtitle">Vous devez désinstaller la version existante</string>
     <string name="morphe_patcher_install_error_title">Erreur d\'installation</string>
     <string name="morphe_patcher_install_error_subtitle">Essayez de désinstaller puis de réinstaller</string>
     <string name="morphe_patcher_ready_to_install_subtitle">Appuyez sur le bouton ci-dessous pour installer</string>
     <string name="morphe_patcher_ready_to_mount_subtitle">Appuyez sur le bouton ci-dessous pour monter</string>
-    <string name="morphe_patcher_unsupported_version_dialog_title">Version non prise en charge</string>
+    <string name="morphe_patcher_unsupported_version_dialog_title">Version non supportée</string>
     <string name="morphe_patcher_unsupported_version_dialog_description">Cette version de l\'APK n\'est pas une version d\'application recommandée. La poursuite peut entraîner une application non fonctionnelle.</string>
     <string name="morphe_patcher_unsupported_version_dialog_proceed">Continuer quand même</string>
     <string name="morphe_patcher_wrong_package_title">Mauvais package sélectionné</string>
@@ -103,7 +103,7 @@
     <string name="morphe_patcher_message_9">Correction des bugs dans l\'application non patchée… 🐞</string>
     <string name="morphe_patcher_message_10">Les bons correctifs valent l\'attente… ⏳</string>
     <string name="morphe_patcher_message_11">Polissage des pixels jusqu\'à ce qu\'ils brillent… 💎</string>
-    <string name="morphe_patcher_message_12">Restez assis jusqu\'à ce que le pilote éteigne le voyant \'Mise à jour en cours\'... 💺✈️</string>
+    <string name="morphe_patcher_message_12">Veuillez rester confortablement installé jusqu’à ce que le capitaine désactive l’indicateur \"Patchage en cours\"… 💺✈️</string>
     <string name="morphe_patcher_message_13">Préparation de votre application patchée, bien chaude et fraîche… 🍳</string>
     <!-- "bytecode" can be translated from "the app code" -->
     <string name="morphe_patcher_message_14">Négocier poliment avec le bytecode… 🤝</string>
